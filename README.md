@@ -24,7 +24,7 @@ Bằng cách áp dụng cải tiến **CUTOFF = $K$** (chuyển sang **Insertion
 │   ├── dataset_nearly_sorted_10000.txt
 │   ├── dataset_reverse_sorted_10000.txt
 │   └── dataset_few_unique_10000.txt
-├── Bao_Cao_Thi_Nghiem_Cutoff_Mergesort.pdf # Báo cáo thí nghiệm chi tiết (Mô tả, Bảng thống kê, Đồ thị, Phân tích)
+├── BaoCao_BuiQuangHuy.pdf # Báo cáo thí nghiệm chi tiết (Mô tả, Bảng thống kê, Đồ thị, Phân tích)
 ├── cutoff_results.csv                      # Dữ liệu kết quả đo thực nghiệm thô (Mean, StdDev, Min, Max, Speedup)
 ├── plot_results.py                         # Script Python vẽ biểu đồ từ file cutoff_results.csv
 ├── cutoff_random_detail.png                # Đồ thị thời gian chạy trung bình và độ lệch chuẩn trên mảng RANDOM
@@ -32,7 +32,7 @@ Bằng cách áp dụng cải tiến **CUTOFF = $K$** (chuyển sang **Insertion
 └── log_chat_ai.pdf                         # Nhật ký thảo luận với AI trong quá trình làm thí nghiệm
 ```
 
-> 📄 **Xem toàn văn báo cáo tại đây:** [Bao_Cao_Thi_Nghiem_Cutoff_Mergesort.pdf](./Bao_Cao_Thi_Nghiem_Cutoff_Mergesort.pdf)
+> 📄 **Xem toàn văn báo cáo tại đây:** [BaoCao_BuiQuangHuy.pdf](./BaoCao_BuiQuangHuy.pdf)
 
 ---
 
